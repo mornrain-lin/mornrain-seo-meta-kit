@@ -1,3 +1,5 @@
+![mornrain-seo-meta-kit](assets/preview.png)
+
 # Morn SEO Meta Kit
 
 轻量级 SEO 元信息与社交卡片插件。为 WordPress 输出规范化的标题、描述、Open Graph、Twitter Card、canonical、hreflang 与 JSON-LD 结构化数据，并附带精简 XML 站点地图与 robots.txt 增强。
