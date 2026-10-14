@@ -1,4 +1,4 @@
-![mornrain-seo-meta-kit](assets/preview.png)
+![mornrain-seo-meta-kit](assets/admin.png)
 
 # Morn SEO Meta Kit
 
@@ -10,7 +10,9 @@
 - 需要 WordPress：6.0+
 - 需要 PHP：7.4+
 - 测试至：WordPress 6.6
-- 许可证：MIT
+- 许可证：MIT## 界面预览
+
+![后台设置界面](assets/admin.png)
 
 ## 特性
 
